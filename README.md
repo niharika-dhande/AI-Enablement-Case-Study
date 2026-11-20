@@ -2,6 +2,8 @@
 
 How I took 60+ developers, testers, designers and documentation staff at Gate6 Technologies from traditional delivery to AI-enabled ways of working, and how I reused the same pipeline for organisation-wide enablement at Brand Concepts.
 
+Also published on my site: [AI Lab case study on promptatwork.com](https://promptatwork.com/ai-lab/work/ai-enablement-aidlc-transformation). This repository is the long-form version, with the reusable playbook.
+
 This is a practical execution pipeline, not a framework on paper. Every step below is something I ran, with the owner, the input, the output and the exit check that let us move to the next step. The [playbook](playbook/) folder has the working templates so the pipeline can be run again in another company.
 
 ## At a glance
